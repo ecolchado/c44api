@@ -22,24 +22,12 @@
 			<name>AECC_ALIGNMENT_STATION_LABEL_GROUP [68B0]</name>
 			<Placemark>
 				<name>0+00</name>
-				<Style>
-					<IconStyle>
-						<Icon>
-						</Icon>
-					</IconStyle>
-				</Style>
 				<Point>
 					<coordinates>-80.41000727992361,27.0888302140354,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>1+00</name>
-				<Style>
-					<IconStyle>
-						<Icon>
-						</Icon>
-					</IconStyle>
-				</Style>
 				<Point>
 					<coordinates>-80.4096999411428,27.0888273218204,0</coordinates>
 				</Point>
