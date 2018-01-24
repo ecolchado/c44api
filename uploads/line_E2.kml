@@ -21,7 +21,7 @@
 		<Folder>
 			<name>AECC_ALIGNMENT_STATION_LABEL_GROUP [68B0]</name>
 			<Placemark>
-				<name>0+00</name>
+				<text>0+00</text>
 				<Point>
 					<coordinates>-80.41000727992361,27.0888302140354,0</coordinates>
 				</Point>
