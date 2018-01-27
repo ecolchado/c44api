@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>e2-line</name>
+	<LookAt>
+		<longitude>-80.4087103032074</longitude>
+		<latitude>27.0881185553162</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<Folder>
+			<name>AECC_ALIGNMENT [68AF]</name>
+			<Placemark>
+				<name>AECC_ALIGNMENT [68AF]:0</name>
+				<description><![CDATA[<table>
+              <tr>
+                <td align="right">Name</td>
+                <td>LINE E2</td>
+              </tr>
+              <tr>
+                <td align="right">Description</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Layer name</td>
+                <td>C-ROAD</td>
+              </tr>
+              <tr>
+                <td align="right">Color</td>
+                <td>BYLAYER</td>
+              </tr>
+              <tr>
+                <td align="right">Linetype</td>
+                <td>ByLayer</td>
+              </tr>
+              <tr>
+                <td align="right">Lineweight</td>
+                <td>ByLayer</td>
+              </tr>
+              <tr>
+                <td align="right">General Object Type</td>
+                <td>AeccDbAlignment</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Count</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td align="right">General Overall Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Style Name</td>
+                <td>Proposed</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>97.651'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001911.178'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853381.751'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001886.715'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853475.139'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>186.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>30.0000 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>96.540'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>226.149'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001886.715'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853475.139'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001774.740'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853671.620'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>77.231'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001774.740'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853671.620'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001755.393'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853745.480'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>147.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>30.0000 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>76.352'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>2362.035'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001755.393'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853745.480'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001768.632'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856107.478'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>312.067'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001768.632'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856107.478'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001570.407'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856306.083'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>197.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>90.5323 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>280.602'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S45° 03' 18"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>16144.894'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001570.407'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856306.083'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>985425.623'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856246.572'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>247.163'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>985425.623'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856246.572'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>985237.236'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856111.628'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>200.000'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>70.8069 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>231.732'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S35° 36' 53"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>6146.109'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>985237.236'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856111.628'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>6146.109'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(848133.8442',1001881.7630',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853381.7506',1001911.1782',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853381.7506',1001911.1782',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853475.1392',1001886.7150',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>186.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853475.1392',1001886.7150',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853671.6204',1001774.7401',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853671.6204',1001774.7401',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853745.4801',1001755.3925',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>147.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853745.4801',1001755.3925',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856107.4775',1001768.6318',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856107.4775',1001768.6318',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856306.0832',1001570.4069',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>197.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S45° 03' 18"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856306.0832',1001570.4069',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856246.5721',985425.6226',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856246.5721',985425.6226',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856111.6276',985237.2356',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>200.000'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S35° 36' 53"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856111.6276',985237.2356',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(850299.7369',983238.0888',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+            </table>]]></description>
+				<Style>
+					<LineStyle>
+						<color>ff7e7efe</color>
+						<width>1</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-80.4099978207519,27.0887467135978,0 -80.4099978297716,27.0887467606792,0 -80.4099978562377,27.0887468021598,0 -80.40999789695781,27.0887468330365,0 -80.4099979470205,27.0887468495853,0 -80.40999800038711,27.0887468498103,0 -80.4099980506209,27.0887468336845,0 -80.4099980916628,27.0887468031529,0 -80.4099981185623,27.0887467618984,0 -80.409998128075,27.0887467148968,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.409998128084,27.0887467148878,0 -80.4099981190622,27.08874666780841,0 -80.40999809259409,27.0887466263298,0 -80.409998051872,27.0887465954551,0 -80.4099980018074,27.0887465789083,0 -80.4099979484387,27.0887465786853,0 -80.4099978982029,27.0887465948131,0 -80.4099978571591,27.0887466253467,0 -80.4099978302575,27.0887466666033,0 -80.4099978207429,27.0887467136068,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39386891287209,27.0887590084156,0 -80.3938689218851,27.0887590554979,0 -80.3938689483452,27.0887590969814,0 -80.39386898906081,27.0887591278627,0 -80.3938690391209,27.0887591444172,0 -80.39386909248741,27.0887591446484,0 -80.3938691427234,27.0887591285283,0 -80.3938691837695,27.0887590980016,0 -80.39386921067489,27.0887590567502,0 -80.3938692201943,27.0887590097498,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3938692202033,27.0887590097408,0 -80.3938692111883,27.0887589626605,0 -80.3938691847262,27.088758921179,0 -80.39386914400861,27.0887588902996,0 -80.39386909394651,27.0887588737471,0 -80.393869040578,27.088758873518,0 -80.39386899034,27.08875888964,0 -80.3938689492918,27.0887589201688,0 -80.3938689223844,27.0887589614222,0 -80.3938689128631,27.0887590084246,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39358226296859,27.0886904773305,0 -80.3935822719814,27.0886905244129,0 -80.3935822984414,27.0886905658964,0 -80.39358233915689,27.0886905967778,0 -80.3935823892169,27.0886906133325,0 -80.39358244258339,27.0886906135637,0 -80.39358249281941,27.0886905974437,0 -80.3935825338656,27.0886905669171,0 -80.39358256077109,27.0886905256657,0 -80.3935825702906,27.0886904786654,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3935825702996,27.0886904786564,0 -80.3935825612847,27.0886904315761,0 -80.3935825348227,27.0886903900945,0 -80.3935824941052,27.0886903592151,0 -80.3935824440432,27.0886903426625,0 -80.3935823906747,27.0886903424332,0 -80.39358234043669,27.08869035855521,0 -80.3935822993885,27.0886903890838,0 -80.393582272481,27.0886904303372,0 -80.3935822629596,27.0886904773395,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39298007550271,27.0883798514689,0 -80.3929800845153,27.0883798985513,0 -80.392980110975,27.0883799400349,0 -80.3929801516902,27.0883799709165,0 -80.39298020175001,27.0883799874714,0 -80.3929802551163,27.0883799877028,0 -80.3929803053523,27.08837997158311,0 -80.3929803463985,27.0883799410566,0 -80.3929803733042,27.0883798998054,0 -80.39298038282389,27.0883798528051,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3929803828329,27.0883798527961,0 -80.3929803738183,27.0883798057157,0 -80.3929803473566,27.088379764234,0 -80.3929803066394,27.0883797333544,0 -80.3929802565775,27.08837971680161,0 -80.39298020320921,27.0883797165721,0 -80.39298015297131,27.0883797326939,0 -80.39298011192309,27.0883797632224,0 -80.3929800850154,27.0883798044756,0 -80.3929800754937,27.0883798514779,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39275336966171,27.0883256499122,0 -80.3927533786742,27.0883256969946,0 -80.3927534051338,27.0883257384783,0 -80.3927534458489,27.0883257693599,0 -80.39275349590871,27.0883257859149,0 -80.392753549275,27.0883257861464,0 -80.3927535995109,27.0883257700268,0 -80.3927536405572,27.0883257395003,0 -80.3927536674629,27.0883256982491,0 -80.39275367698269,27.0883256512488,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3927536769917,27.0883256512398,0 -80.3927536679772,27.0883256041595,0 -80.3927536415156,27.0883255626778,0 -80.3927536007985,27.08832553179811,0 -80.3927535507367,27.0883255152452,0 -80.3927534973684,27.0883255150157,0 -80.3927534471305,27.0883255311373,0 -80.39275340608221,27.0883255616657,0 -80.39275337917449,27.0883256029189,0 -80.3927533696527,27.0883256499212,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3854940505083,27.0883305225007,0 -80.3854940595178,27.0883305695835,0 -80.3854940859746,27.0883306110685,0 -80.3854941266878,27.0883306419523,0 -80.38549417674641,27.0883306585097,0 -80.3854942301126,27.088330658744,0 -80.3854942803496,27.088330642627,0 -80.3854943213978,27.0883306121027,0 -80.3854943483061,27.088330570853,0 -80.3854943578289,27.0883305238532,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3854943578379,27.0883305238442,0 -80.3854943488265,27.0883304767634,0 -80.38549432236761,27.0883304352804,0 -80.3854942816525,27.0883304043987,0 -80.38549423159181,27.0883303878432,0 -80.3854941782236,27.0883303876109,0 -80.3854941279847,27.0883304037299,0 -80.3854940869345,27.0883304342562,0 -80.3854940600241,27.088330475508,0 -80.3854940504993,27.0883305225097,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3848866549266,27.0877825780971,0 -80.3848866639357,27.0877826251799,0 -80.38488669039231,27.0877826666651,0 -80.384886731105,27.0877826975489,0 -80.3848867811633,27.0877827141066,0 -80.3848868345293,27.0877827143412,0 -80.3848868847661,27.0877826982243,0 -80.3848869258142,27.0877826677002,0 -80.3848869527226,27.0877826264506,0 -80.3848869622457,27.0877825794509,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3848869622547,27.0877825794419,0 -80.3848869532435,27.0877825323611,0 -80.384886926785,27.0877824908779,0 -80.38488688607021,27.087782459996,0 -80.3848868360099,27.0877824434403,0 -80.384886782642,27.0877824432078,0 -80.3848867324032,27.0877824593266,0 -80.384886691353,27.0877824898528,0 -80.3848866644426,27.0877825311044,0 -80.38488665491759,27.0877825781061,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853117659622,27.043372341504,0 -80.3853117749683,27.043372388587,0 -80.3853118014149,27.0433724300722,0 -80.385311842112,27.0433724609559,0 -80.3853118921508,27.0433724775132,0 -80.3853119454958,27.0433724777472,0 -80.3853119957126,27.0433724616298,0 -80.3853120367442,27.0433724311051,0 -80.38531206364151,27.0433723898549,0 -80.38531207316019,27.0433723428548,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853120731692,27.0433723428458,0 -80.385312064161,27.0433722957648,0 -80.3853120377124,27.0433722542817,0 -80.3853119970133,27.0433722234,0 -80.38531194697261,27.0433722068446,0 -80.3853118936256,27.0433722066126,0 -80.3853118434068,27.043372222732,0 -80.3853118023732,27.0433722532587,0 -80.3853117754739,27.0433722945109,0 -80.38531176595321,27.043372341513,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3857291463511,27.0428559353716,0 -80.3857291553574,27.0428559824546,0 -80.385729181804,27.0428560239397,0 -80.385729222501,27.0428560548233,0 -80.38572927253971,27.0428560713805,0 -80.3857293258844,27.0428560716143,0 -80.3857293761009,27.0428560554968,0 -80.3857294171322,27.0428560249719,0 -80.3857294440292,27.0428559837217,0 -80.3857294535477,27.0428559367215,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38572945355671,27.0428559367125,0 -80.3857294445484,27.0428558896315,0 -80.3857294180998,27.0428558481485,0 -80.38572937740069,27.0428558172669,0 -80.3857293273601,27.0428558007117,0 -80.3857292740134,27.0428558004799,0 -80.3857292237949,27.0428558165994,0 -80.38572918276159,27.04285584712631,0 -80.38572915586251,27.0428558883785,0 -80.3857291463421,27.0428559353806,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>AECC_ALIGNMENT [68AF]:1</name>
+				<description><![CDATA[<table>
+              <tr>
+                <td align="right">Name</td>
+                <td>LINE E2</td>
+              </tr>
+              <tr>
+                <td align="right">Description</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Layer name</td>
+                <td>C-ROAD</td>
+              </tr>
+              <tr>
+                <td align="right">Color</td>
+                <td>BYLAYER</td>
+              </tr>
+              <tr>
+                <td align="right">Linetype</td>
+                <td>ByLayer</td>
+              </tr>
+              <tr>
+                <td align="right">Lineweight</td>
+                <td>ByLayer</td>
+              </tr>
+              <tr>
+                <td align="right">General Object Type</td>
+                <td>AeccDbAlignment</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Count</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td align="right">General Overall Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Style Name</td>
+                <td>Proposed</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>97.651'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001911.178'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853381.751'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001886.715'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853475.139'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>186.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>30.0000 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>96.540'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>226.149'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001886.715'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853475.139'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001774.740'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853671.620'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>77.231'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001774.740'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853671.620'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001755.393'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>853745.480'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>147.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>30.0000 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>76.352'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>2362.035'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001755.393'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>853745.480'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001768.632'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856107.478'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>312.067'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001768.632'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856107.478'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>1001570.407'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856306.083'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>197.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>90.5323 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>280.602'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S45° 03' 18"E</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>16144.894'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>1001570.407'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856306.083'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>985425.623'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856246.572'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>247.163'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>985425.623'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856246.572'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>985237.236'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>856111.628'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Radius</td>
+                <td>200.000'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Delta Angle</td>
+                <td>70.8069 (d)</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Length</td>
+                <td>231.732'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Chord Direction</td>
+                <td>S35° 36' 53"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>6146.109'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>985237.236'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>856111.628'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Length</td>
+                <td>6146.109'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment Start Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Northing</td>
+                <td>983238.089'</td>
+              </tr>
+              <tr>
+                <td align="right">Segment End Easting</td>
+                <td>850299.737'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(848133.8442',1001881.7630',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853381.7506',1001911.1782',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853381.7506',1001911.1782',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853475.1392',1001886.7150',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>186.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853475.1392',1001886.7150',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853671.6204',1001774.7401',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S60° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853671.6204',1001774.7401',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(853745.4801',1001755.3925',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>147.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S75° 19' 16"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(853745.4801',1001755.3925',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856107.4775',1001768.6318',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>N89° 40' 44"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856107.4775',1001768.6318',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856306.0832',1001570.4069',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>197.500'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S45° 03' 18"E</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856306.0832',1001570.4069',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856246.5721',985425.6226',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S0° 12' 40"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856246.5721',985425.6226',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(856111.6276',985237.2356',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Radius</td>
+                <td>200.000'</td>
+              </tr>
+              <tr>
+                <td align="right">Chord Direction</td>
+                <td>S35° 36' 53"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+              <tr>
+                <td align="right">Curve Group Index</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td align="right">Start Point</td>
+                <td>(856111.6276',985237.2356',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">End Point</td>
+                <td>(850299.7369',983238.0888',0.0000')</td>
+              </tr>
+              <tr>
+                <td align="right">Length</td>
+                <td>30861.287'</td>
+              </tr>
+              <tr>
+                <td align="right">Direction</td>
+                <td>S71° 01' 05"W</td>
+              </tr>
+              <tr>
+                <td align="right">Start Station</td>
+                <td>0+00.00'</td>
+              </tr>
+              <tr>
+                <td align="right">End Station</td>
+                <td>308+61.29'</td>
+              </tr>
+            </table>]]></description>
+				<Style>
+					<LineStyle>
+						<color>ff00a400</color>
+						<width>1</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-80.40999797441791,27.0887467142428,0 -80.3938690665367,27.0887590090792,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.393582416634,27.0886904779935,0 -80.3929802291668,27.0883798521335,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3927535233267,27.088325650576,0 -80.38549420417211,27.0883305231735,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38488680859059,27.0877825787695,0 -80.3853119195647,27.0433723421759,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38572929995389,27.0428559360421,0 -80.40361285465249,27.0374334482909,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3938690665377,27.0887590090782,0 -80.39383573836611,27.0887581646047,0 -80.39380252144071,27.0887555870541,0 -80.3937695281587,27.088751285148,0 -80.3937368701602,27.088745273443,0 -80.39370465795101,27.0887375722811,0 -80.3936730005284,27.0887282077209,0 -80.3936420050122,27.0887172114496,0 -80.3936117762827,27.0887046206755,0 -80.39358241662509,27.0886904780025,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3929802291678,27.0883798521325,0 -80.39295700919359,27.0883686668065,0 -80.3929331018889,27.0883587088417,0 -80.39290858814771,27.0883500119323,0 -80.3928835509163,27.0883426055056,0 -80.3928580749117,27.08833651462241,0 -80.392832246336,27.0883317598921,0 -80.3928061525839,27.088328357403,0 -80.3927798819476,27.0883263186678,0 -80.39275352331769,27.088325650585,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3854942041731,27.0883305231725,0 -80.38538817892049,27.0883222401272,0 -80.3852853999075,27.0882975087999,0 -80.38518902701971,27.0882570895435,0 -80.3851020231815,27.0882022250267,0 -80.38502706326,27.0881346020282,0 -80.3849664518274,27.0880562995748,0 -80.3849220523088,27.0879697250221,0 -80.3848952296951,27.0878775400396,0 -80.3848868085816,27.0877825787785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38531191956569,27.04337234217491,0 -80.3853184228757,27.0432970815223,0 -80.3853363698686,27.043223326354,0 -80.3853654226692,27.04315246511541,0 -80.38540503433779,27.0430858317712,0 -80.38545445916721,27.0430246806937,0 -80.3855127667224,27.0429701630497,0 -80.3855788593557,27.0429233051303,0 -80.38565149287101,27.0428849890319,0 -80.3857292999449,27.0428559360511,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

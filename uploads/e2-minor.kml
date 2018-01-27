@@ -1,0 +1,2817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>e2-minor</name>
+	<LookAt>
+		<longitude>-80.4084782150626</longitude>
+		<latitude>27.0885164537843</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<Folder>
+			<name>AECC_ALIGNMENT_MINOR_STATION_LABEL_GROUP [68B6]</name>
+			<Placemark>
+				<name>AECC_ALIGNMENT_MINOR_STATION_LABEL_GROUP [68B6]:0</name>
+				<Style>
+					<LineStyle>
+						<color>ff7e7efe</color>
+						<width>1</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-80.4098442983121,27.088738587623,0 -80.40984431517531,27.0887550926059,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40969063065271,27.0887387133263,0 -80.40969064749341,27.0887552183089,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4095369629963,27.0887388388617,0 -80.4095369798145,27.0887553438439,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40938329534291,27.08873896422901,0 -80.4093833121386,27.0887554692109,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4092296276927,27.0887390894284,0 -80.4092296444658,27.0887555944099,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4090759600454,27.0887392144597,0 -80.409075976796,27.0887557194409,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4089222924012,27.088739339323,0 -80.4089223091293,27.0887558443038,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4087686247601,27.0887394640184,0 -80.4087686414656,27.0887559689988,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.408614957122,27.0887395885457,0 -80.408614973805,27.0887560935258,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4083076218549,27.0887398370964,0 -80.4083076384929,27.0887563420758,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.408153954226,27.0887399611197,0 -80.4081539708414,27.0887564660988,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4080002866001,27.088740084975,0 -80.40800030319301,27.0887565899538,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4078466189772,27.0887402086624,0 -80.4078466355476,27.0887567136408,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4076929513574,27.0887403321817,0 -80.40769296790531,27.0887568371598,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4075392837407,27.088740455533,0 -80.4075393002661,27.0887569605107,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.407385616127,27.0887405787164,0 -80.4073856326299,27.0887570836937,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4072319485164,27.0887407017317,0 -80.4072319649968,27.0887572067087,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40707828090891,27.088740824579,0 -80.4070782973667,27.08875732955571,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.406770945703,27.0887410697697,0 -80.4067709621158,27.0887575747457,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40661727810461,27.088741192113,0 -80.40661729449489,27.0887576970887,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40646361050941,27.0887413142884,0 -80.4064636268771,27.0887578192636,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4063099429172,27.0887414362957,0 -80.4063099592623,27.0887579412706,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.406156275328,27.088741558135,0 -80.4061562916507,27.0887580631096,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.406002607742,27.0887416798064,0 -80.4060026240421,27.0887581847806,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.405848940159,27.0887418013097,0 -80.4058489564366,27.0887583062836,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.405695272579,27.0887419226451,0 -80.4056952888341,27.0887584276186,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4055416050022,27.0887420438124,0 -80.4055416212348,27.0887585487856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4052342698577,27.0887422856431,0 -80.4052342860453,27.0887587906156,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4050806022901,27.0887424063064,0 -80.4050806184551,27.0887589112785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40492693472559,27.0887425268017,0 -80.4049269508681,27.0887590317735,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4047732671642,27.0887426471291,0 -80.4047732832841,27.0887591521005,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4046195996058,27.0887427672884,0 -80.4046196157032,27.0887592722595,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4044659320505,27.0887428872797,0 -80.40446594812541,27.0887593922505,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4043122644983,27.0887430071031,0 -80.4043122805507,27.0887595120735,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4041585969492,27.0887431267584,0 -80.4041586129791,27.0887596317285,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4040049294032,27.0887432462457,0 -80.40400494541051,27.0887597512154,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40369759432041,27.0887434847164,0 -80.40369761028271,27.0887599896854,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4035439267837,27.0887436036998,0 -80.4035439427235,27.0887601086684,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4033902592501,27.0887437225151,0 -80.4033902751673,27.0887602274834,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40323659171951,27.0887438411624,0 -80.4032366076142,27.0887603461304,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40308292419211,27.0887439596418,0 -80.40308294006429,27.0887604646094,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4029292566677,27.0887440779531,0 -80.4029292725174,27.0887605829203,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4027755891464,27.0887441960964,0 -80.4027756049736,27.0887607010633,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4026219216283,27.0887443140718,0 -80.4026219374329,27.0887608190383,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4024682541133,27.0887444318791,0 -80.40246826989529,27.0887609368453,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4021609190925,27.0887446669898,0 -80.4021609348295,27.0887611719553,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4020072515867,27.0887447842931,0 -80.4020072673013,27.0887612892583,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40185358408409,27.0887449014285,0 -80.4018535997761,27.0887614063933,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4016999165846,27.0887450183958,0 -80.4016999322541,27.0887615233602,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4015462490882,27.0887451351951,0 -80.4015462647351,27.0887616401592,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40139258159491,27.0887452518265,0 -80.4013925972193,27.0887617567902,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4012389141047,27.0887453682898,0 -80.40123892970659,27.0887618732532,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4010852466176,27.0887454845852,0 -80.401085262197,27.0887619895482,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4009315791337,27.0887456007125,0 -80.40093159469051,27.08876210567521,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40062424417511,27.0887458324632,0 -80.40062425968689,27.0887623374252,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4004705767005,27.0887459480865,0 -80.40047059218981,27.08876245304811,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40031690922911,27.0887460635419,0 -80.4003169246958,27.0887625685031,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40016324176069,27.0887461788292,0 -80.40016325720499,27.0887626837901,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4000095742955,27.0887462939485,0 -80.4000095897172,27.08876279890911,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3998559068334,27.0887464088999,0 -80.3998559222326,27.0887629138601,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39970223937441,27.0887465236832,0 -80.39970225475111,27.0887630286431,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3995485719185,27.0887466382986,0 -80.3995485872727,27.0887631432581,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39939490446579,27.0887467527459,0 -80.3993949197974,27.0887632577051,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3990875695698,27.0887469811366,0 -80.3990875848564,27.088763486095,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3989339021265,27.0887470950799,0 -80.39893391739049,27.088763600038,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3987802346863,27.0887472088553,0 -80.3987802499278,27.088763713813,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3986265672492,27.0887473224626,0 -80.3986265824682,27.08876382742,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3984728998153,27.088747435902,0 -80.39847291501179,27.088763940859,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3983192323845,27.0887475491733,0 -80.3983192475585,27.08876405413,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3981655649569,27.0887476622767,0 -80.3981655801083,27.088764167233,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3980118975324,27.088747775212,0 -80.3980119126613,27.088764280168,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.397858230111,27.0887478879793,0 -80.39785824521741,27.088764392935,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3975508952778,27.08874811301,0 -80.39755091033911,27.0887646179649,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3973972278659,27.0887482252734,0 -80.3973972429047,27.0887647302279,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3972435604571,27.0887483373687,0 -80.3972435754734,27.0887648423229,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3970898930515,27.0887484492961,0 -80.3970899080452,27.0887649542499,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.396936225649,27.0887485610554,0 -80.39693624062021,27.0887650660089,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3967825582497,27.08874867264681,0 -80.39678257319839,27.0887651775999,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39662889085351,27.0887487840701,0 -80.39662890577971,27.0887652890229,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3964752234605,27.08874889532551,0 -80.3964752383642,27.0887654002779,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3963215560706,27.0887490064128,0 -80.3963215709518,27.08876551136491,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39601422130041,27.0887492280835,0 -80.39601423613649,27.0887657330349,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39586055392,27.0887493386669,0 -80.3958605687336,27.0887658436179,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3957068865428,27.0887494490822,0 -80.3957069013339,27.0887659540328,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3955532191688,27.0887495593296,0 -80.39555323393731,27.0887660642798,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39539955179789,27.0887496694089,0 -80.3953995665439,27.0887661743588,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3952458844302,27.0887497793203,0 -80.39524589915359,27.0887662842698,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3950922170656,27.0887498890636,0 -80.3950922317666,27.0887663940128,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39493854970419,27.088749998639,0 -80.3949385643826,27.0887665035878,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.394784882346,27.0887501080463,0 -80.3947848970019,27.0887666129948,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3944775476391,27.088750326357,0 -80.3944775622499,27.0887668313048,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3943238802904,27.08875043526041,0 -80.3943238948787,27.0887669402078,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3941702129448,27.0887505439957,0 -80.3941702275107,27.0887670489428,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3940165456025,27.0887506525631,0 -80.3940165601458,27.0887671575098,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39386297778189,27.0887507315426,0 -80.3938627934526,27.0887672356695,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3937137958507,27.0887313635639,0 -80.39370873361661,27.0887472344022,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3935754105799,27.0886773392688,0 -80.39356620308379,27.0886916394512,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3934422706033,27.0886086621363,0 -80.3934330630963,27.0886229623099,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3933091307909,27.0885399848796,0 -80.39329992327291,27.0885542850445,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39304285165829,27.0884026299941,0 -80.3930336441185,27.0884169301414,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3929044394294,27.0883399456826,0 -80.39289843693371,27.088355551724,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3927505028534,27.0883174002045,0 -80.39275051721241,27.0883339051493,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3925968361329,27.0883175072296,0 -80.3925968504693,27.088334012174,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3924431694156,27.0883176140867,0 -80.3924431837295,27.08833411903071,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3922895027014,27.0883177207757,0 -80.3922895169929,27.0883342257194,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3921358359905,27.0883178272968,0 -80.39213585025939,27.08833433224021,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3919821692828,27.0883179336499,0 -80.3919821835291,27.0883344385929,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39182850257821,27.088318039835,0 -80.39182851680209,27.0883345447776,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3915211691787,27.0883182517012,0 -80.3915211833575,27.0883347566431,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3913675024838,27.0883183573823,0 -80.3913675166401,27.0883348623238,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.391213835792,27.0883184628954,0 -80.39121384992581,27.0883349678366,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3910601691035,27.0883185682405,0 -80.39106018321471,27.0883350731813,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39090650241811,27.0883186734176,0 -80.3909065165068,27.0883351783581,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.390752835736,27.0883187784267,0 -80.3907528498022,27.0883352833668,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3905991690571,27.0883188832679,0 -80.3905991831007,27.0883353882076,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3904455023813,27.088318987941,0 -80.39044551640249,27.0883354928804,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39029183570879,27.0883190924461,0 -80.3902918497074,27.0883355973851,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3899845023734,27.0883193009524,0 -80.389984516327,27.0883358058907,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3898308357105,27.0883194049535,0 -80.3898308496416,27.08833590989151,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3896771690509,27.0883195087867,0 -80.3896771829594,27.0883360137242,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3895235023944,27.0883196124518,0 -80.38952351628041,27.088336117389,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38936983574121,27.088319715949,0 -80.38936984960461,27.0883362208858,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3892161690911,27.0883198192781,0 -80.3892161829321,27.0883363242146,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3890625024443,27.0883199224393,0 -80.3890625162628,27.0883364273754,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38890883580081,27.0883200254324,0 -80.3889088495967,27.0883365303682,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38875516916041,27.0883201282576,0 -80.38875518293381,27.088336633193,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38844783588939,27.0883203334039,0 -80.38844784961771,27.0883368383386,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3882941692587,27.0883204357251,0 -80.3882941829645,27.0883369406594,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3881405026312,27.0883205378783,0 -80.38814051631449,27.0883370428123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.387986836007,27.0883206398635,0 -80.3879868496678,27.0883371447971,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.387833169386,27.0883207416807,0 -80.3878331830242,27.0883372466139,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38767950276819,27.0883208433299,0 -80.3876795163839,27.0883373482627,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3875258361537,27.088320944811,0 -80.38752584974689,27.0883374497436,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3873721695424,27.0883210461242,0 -80.3873721831131,27.0883375510564,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3872185029343,27.0883211472695,0 -80.38721851648251,27.0883376522012,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3869111697279,27.0883213490559,0 -80.38691118323101,27.0883378539869,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3867575031295,27.0883214496971,0 -80.3867575166101,27.0883379546278,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38660383653441,27.0883215501703,0 -80.3866038499925,27.0883380551006,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38645016994251,27.0883216504755,0 -80.3864501833781,27.0883381554055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3862965033539,27.0883217506127,0 -80.38629651676691,27.0883382555424,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3861428367686,27.088321850582,0 -80.386142850159,27.0883383555112,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38598917018641,27.0883219503832,0 -80.3859891835544,27.0883384553121,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3858355036075,27.0883220500164,0 -80.38583551695299,27.088338554945,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3856818370319,27.0883221494817,0 -80.3856818503548,27.0883386544098,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38537707613899,27.08831197733,0 -80.385373476418,27.0883281647223,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852339552011,27.08826909058,0 -80.3852259404206,27.0882839549814,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851073976263,27.0881954851491,0 -80.3850954787472,27.0882080789368,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38500547160081,27.0880958534899,0 -80.3849904084767,27.0881053737975,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849346749666,27.0879765472492,0 -80.38491742789761,27.0879823871506,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3848995209823,27.0878451723313,0 -80.38488118949191,27.0878469595317,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3848967365217,27.0877087139518,0 -80.38487829730759,27.0877085724284,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38489805414081,27.0875711779152,0 -80.3848796149492,27.0875710363924,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38489937175321,27.0874336418759,0 -80.384880932584,27.08743350035361,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849020069576,27.087158569789,0 -80.3848835678335,27.0871584282678,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849033245497,27.0870210337415,0 -80.3848848854481,27.0870208922208,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849046421351,27.0868834976912,0 -80.384886203056,27.0868833561711,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38490595971371,27.0867459616382,0 -80.3848875206571,27.0867458201186,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38490727728561,27.08660842558241,0 -80.3848888382515,27.0866082840634,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849085948507,27.0864708895239,0 -80.3848901558392,27.0864707480054,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849099124091,27.0863333534626,0 -80.3848914734201,27.0863332119447,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38491122996069,27.0861958173986,0 -80.3848927909942,27.0861956758812,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38491254750561,27.08605828133191,0 -80.3848941085616,27.086058139815,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849151825752,27.0857832091901,0 -80.38489674367619,27.0857830676744,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38491650009991,27.0856456731152,0 -80.3848980612234,27.0856455316,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849178176178,27.0855081370375,0 -80.38489937876381,27.0855079955228,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.384919135129,27.085370600957,0 -80.38490069629751,27.0853704594429,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38492045263349,27.0852330648738,0 -80.3849020138245,27.0852329233603,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849217701312,27.0850955287879,0 -80.3849033313447,27.0850953872749,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849230876221,27.0849579926992,0 -80.3849046488582,27.0849578511867,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849244051063,27.0848204566077,0 -80.3849059663649,27.0848203150959,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849257225838,27.0846829205136,0 -80.38490728386491,27.0846827790022,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849283575185,27.084407848317,0 -80.3849099188446,27.0844077068068,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38492967497579,27.0842703122146,0 -80.3849112363244,27.08427017070491,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38493099242631,27.0841327761095,0 -80.38491255379741,27.0841326346003,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38493230987,27.0839952400016,0 -80.38491387126361,27.083995098493,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38493362730701,27.083857703891,0 -80.3849151887232,27.0838575623829,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849349447373,27.0837201677776,0 -80.3849165061759,27.0837200262701,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38493626216081,27.0835826316615,0 -80.384917823622,27.08358249015451,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849375795776,27.0834450955426,0 -80.3849191410613,27.0834449540362,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38493889698771,27.083307559421,0 -80.3849204584938,27.0833074179152,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849415317875,27.0830324871696,0 -80.3849230933387,27.0830323456649,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38494284917741,27.0828949510398,0 -80.384924410751,27.0828948095356,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849441665604,27.0827574149072,0 -80.3849257281566,27.0827572734036,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849454839368,27.0826198787719,0 -80.3849270455554,27.0826197372688,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849468013064,27.0824823426339,0 -80.38492836294751,27.0824822011313,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849481186692,27.0823448064931,0 -80.3849296803329,27.0823446649911,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849494360253,27.0822072703496,0 -80.38493099771151,27.0822071288481,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849507533747,27.08206973420331,0 -80.3849323150834,27.0820695927024,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849520707173,27.0819321980543,0 -80.38493363244849,27.0819320565539,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849547053823,27.081657125748,0 -80.38493626715849,27.0816569842488,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849560227047,27.0815195895908,0 -80.38493758450341,27.0815194480921,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38495734002041,27.0813820534308,0 -80.38493890184159,27.0813819119326,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38495865732931,27.0812445172681,0 -80.384940219173,27.0812443757704,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849599746315,27.0811069811026,0 -80.38494153649771,27.0811068396055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849612919269,27.0809694449344,0 -80.3849428538156,27.0809693034379,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38496260921561,27.0808319087634,0 -80.3849441711268,27.0808317672675,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38496392649761,27.0806943725897,0 -80.3849454884313,27.0806942310943,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849652437728,27.0805568364133,0 -80.384946805729,27.0805566949184,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849678783029,27.0802817640522,0 -80.3849494403042,27.0802816225584,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849691955579,27.0801442278675,0 -80.38495075758171,27.0801440863743,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38497051280621,27.0800066916801,0 -80.38495207485239,27.0800065501874,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849718300477,27.07986915549,0 -80.3849533921164,27.0798690139978,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849731472824,27.0797316192971,0 -80.3849547093737,27.0797314778055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38497446451041,27.0795940831014,0 -80.3849560266242,27.0795939416104,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849757817317,27.0794565469031,0 -80.384957343868,27.0794564054126,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38497709894629,27.0793190107019,0 -80.384958661105,27.079318869212,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849784161541,27.0791814744981,0 -80.3849599783353,27.0791813330087,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849810505494,27.0789064020821,0 -80.3849626127757,27.0789062605939,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.384982367737,27.0787688658701,0 -80.3849639299857,27.0787687243823,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849836849178,27.0786313296552,0 -80.3849652471891,27.078631188168,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849850020919,27.0784937934377,0 -80.38496656438571,27.078493651951,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849863192593,27.0783562572173,0 -80.38496788157551,27.0783561157313,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38498763641989,27.0782187209943,0 -80.3849691987586,27.0782185795088,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849889535737,27.0780811847685,0 -80.384970515935,27.0780810432835,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38499027072081,27.07794364854,0 -80.3849718331046,27.07794350705551,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38499158786119,27.0778061123087,0 -80.3849731502675,27.07780597082481,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849942221218,27.0775310398379,0 -80.384975784573,27.0775308983551,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849955392419,27.0773935035984,0 -80.38497710171571,27.0773933621161,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3849968563554,27.0772559673561,0 -80.3849784188516,27.0772558258744,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38499817346209,27.0771184311112,0 -80.38497973598081,27.07711828963,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.384999490562,27.0769808948634,0 -80.3849810531032,27.0769807533828,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850008076552,27.0768433586129,0 -80.38498237021891,27.0768432171329,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850021247416,27.0767058223597,0 -80.3849836873279,27.0767056808802,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850034418214,27.0765682861038,0 -80.38498500443011,27.0765681446248,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850047588943,27.0764307498451,0 -80.3849863215256,27.0764306083667,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850073930201,27.0761556773195,0 -80.3849889556963,27.0761555358421,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850087100728,27.0760181410525,0 -80.3849902727716,27.0760179995758,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850100271189,27.0758806047829,0 -80.3849915898401,27.0758804633067,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850113441581,27.07574306851051,0 -80.3849929069019,27.0757429270348,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850126611907,27.0756055322353,0 -80.3849942239569,27.0756053907602,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38501397821651,27.0754679959574,0 -80.3849955410052,27.0754678544828,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38501529523551,27.0753304596768,0 -80.38499685804671,27.0753303182028,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850166122479,27.0751929233934,0 -80.38499817508161,27.0751927819199,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38501792925339,27.0750553871073,0 -80.3849994921097,27.0750552456344,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850205632444,27.0747803145268,0 -80.38500212614559,27.074780173055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850218802297,27.0746427782325,0 -80.38500344315339,27.0746426367612,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850231972084,27.0745052419354,0 -80.3850047601546,27.0745051004647,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850245141802,27.0743677056356,0 -80.3850060771489,27.0743675641654,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850258311454,27.074230169333,0 -80.38500739413659,27.0742300278634,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850271481038,27.0740926330277,0 -80.38500871111749,27.0740924915586,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850284650554,27.0739550967197,0 -80.3850100280916,27.0739549552511,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850297820004,27.0738175604089,0 -80.385011345059,27.0738174189409,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850310989385,27.0736800240953,0 -80.38501266201971,27.0736798826279,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850337327947,27.07340495146,0 -80.38501529592089,27.0734048099937,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850350497127,27.0732674151383,0 -80.38501661286131,27.0732672736725,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38503636662389,27.0731298788138,0 -80.385017929795,27.0731297373485,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850376835284,27.0729923424865,0 -80.385019246722,27.0729922010218,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850390004261,27.0728548061566,0 -80.3850205636422,27.0728546646924,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38504031731711,27.0727172698238,0 -80.3850218805558,27.0727171283602,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850416342014,27.0725797334884,0 -80.3850231974625,27.0725795920253,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850429510789,27.0724421971502,0 -80.3850245143625,27.0724420556877,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850442679497,27.0723046608092,0 -80.3850258312558,27.0723045193473,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850469016711,27.0720295881191,0 -80.3850284650222,27.0720294466582,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850482185216,27.0718920517699,0 -80.3850297818952,27.0718919103096,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850495353655,27.071754515418,0 -80.3850310987616,27.0717543739582,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850508522026,27.0716169790633,0 -80.3850324156212,27.0716168376041,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850521690329,27.0714794427059,0 -80.385033732474,27.0714793012473,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850534858565,27.0713419063458,0 -80.3850350493201,27.0713417648877,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850548026734,27.0712043699829,0 -80.3850363661595,27.0712042285254,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38505611948359,27.0710668336173,0 -80.38503768299211,27.0710666921603,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385057436287,27.0709292972489,0 -80.38503899981799,27.0709291557925,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850600698736,27.070654224504,0 -80.3850416334496,27.0706540830486,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850613866567,27.0705166881274,0 -80.3850429502553,27.0705165466726,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38506270343321,27.0703791517481,0 -80.3850442670542,27.0703790102938,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850640202029,27.070241615366,0 -80.38504558384641,27.0702414739123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38506533696589,27.0701040789812,0 -80.38504690063191,27.070103937528,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38506665372211,27.0699665425936,0 -80.3850482174106,27.069966401141,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850679704716,27.0698290062033,0 -80.3850495341826,27.0698288647512,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38506928721441,27.0696914698103,0 -80.38505085094781,27.0696913283587,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850706039504,27.0695539334145,0 -80.38505216770631,27.0695537919635,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850732374022,27.0692788606147,0 -80.3850548012031,27.0692787191648,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38507455411801,27.0691413242107,0 -80.3850561179414,27.0691411827614,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38507587082709,27.069003787804,0 -80.385057434673,27.0690036463552,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850771875294,27.0688662513945,0 -80.38505875139781,27.0688661099462,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38507850422501,27.0687287149822,0 -80.38506006811591,27.0687285735346,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850798209139,27.0685911785673,0 -80.3850613848272,27.0685910371201,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385081137596,27.0684536421496,0 -80.38506270153179,27.068453500703,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850824542714,27.0683161057291,0 -80.3850640182297,27.0683159642831,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38508377094,27.0681785693059,0 -80.3850653349208,27.0681784278604,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850864042571,27.0679034964513,0 -80.3850679682829,27.0679033550069,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850877209055,27.06776596001991,0 -80.3850692849538,27.0677658185761,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850890375472,27.0676284235857,0 -80.385070601618,27.0676282821424,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850903541821,27.0674908871489,0 -80.3850719182754,27.0674907457061,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850916708104,27.0673533507092,0 -80.3850732349261,27.067353209267,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850929874318,27.0672158142668,0 -80.3850745515701,27.0672156728252,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850943040466,27.0670782778217,0 -80.3850758682073,27.0670781363806,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850956206546,27.0669407413738,0 -80.3850771848378,27.0669405999333,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850969372559,27.0668032049232,0 -80.38507850146161,27.0668030634832,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3850995704382,27.0665281320138,0 -80.3850811346888,27.06652799057491,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38510088701921,27.066390595555,0 -80.38508245129241,27.0663904541166,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38510220359351,27.0662530590934,0 -80.3850837678892,27.0662529176556,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851035201611,27.0661155226291,0 -80.3850850844793,27.0661153811918,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38510483672199,27.065977986162,0 -80.38508640106259,27.0659778447253,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851061532761,27.0658404496922,0 -80.3850877176392,27.0658403082561,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851074698234,27.0657029132197,0 -80.385089034209,27.0657027717841,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851087863641,27.0655653767444,0 -80.3850903507721,27.0655652353094,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385110102898,27.0654278402664,0 -80.3850916673285,27.0654276988319,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851127359455,27.06515276730221,0 -80.3850943004211,27.0651526258687,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851140524592,27.0650152308159,0 -80.3850956169573,27.065015089383,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851153689662,27.0648776943269,0 -80.38509693348669,27.0648775528946,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851166854664,27.0647401578352,0 -80.38509825000941,27.06474001640341,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851180019599,27.0646026213408,0 -80.3850995665253,27.0646024799095,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851193184466,27.0644650848436,0 -80.3851008830346,27.0644649434129,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38512063492659,27.0643275483436,0 -80.3851021995371,27.0643274069135,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851219513999,27.0641900118409,0 -80.3851035160328,27.0641898704113,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38512326786641,27.0640524753355,0 -80.3851048325218,27.0640523339065,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851259007793,27.0637774023164,0 -80.38510746547961,27.0637772608885,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851272172256,27.0636398658028,0 -80.3851087819484,27.0636397243754,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851285336652,27.0635023292864,0 -80.38511009841049,27.0635021878595,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385129850098,27.0633647927673,0 -80.3851114148658,27.063364651341,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851311665241,27.0632272562454,0 -80.38511273131439,27.0632271148196,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851324829435,27.0630897197208,0 -80.3851140477563,27.0630895782956,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851337993561,27.0629521831934,0 -80.38511536419141,27.0629520417688,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385135115762,27.0628146466633,0 -80.3851166806198,27.0628145052392,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851364321612,27.0626771101305,0 -80.38511799704141,27.0626769687069,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851390649393,27.0624020370566,0 -80.3851206298645,27.0624018956341,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38514038131829,27.0622645005155,0 -80.385121946266,27.0622643590936,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851416976905,27.0621269639717,0 -80.3851232626607,27.0621268225504,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385143014056,27.0619894274252,0 -80.38512457904871,27.0619892860044,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851443304147,27.0618518908759,0 -80.38512589542989,27.0618517494556,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851456467668,27.0617143543239,0 -80.3851272118044,27.0617142129042,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38514696311201,27.06157681776911,0 -80.3851285281721,27.06157667635,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851482794506,27.0614392812116,0 -80.3851298445332,27.061439139793,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38514959578239,27.0613017446514,0 -80.3851311608875,27.0613016032333,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851522284258,27.0610266715227,0 -80.3851337935758,27.0610265301057,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38515354473741,27.0608891349542,0 -80.3851351099099,27.0608889935378,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851548610423,27.060751598383,0 -80.3851364262373,27.0607514569671,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38515617734041,27.06061406180901,0 -80.3851377425579,27.0606139203937,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851574936318,27.0604765252323,0 -80.3851390588717,27.0604763838176,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851588099165,27.0603389886529,0 -80.38514037517891,27.0603388472387,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38516012619441,27.0602014520707,0 -80.38514169147931,27.0602013106571,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851614424656,27.0600639154858,0 -80.385143007773,27.0600637740727,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38516275873,27.0599263788982,0 -80.38514432405989,27.0599262374856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851653912388,27.0596513057147,0 -80.3851469566136,27.0596511643032,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385166707483,27.0595137691188,0 -80.3851482728803,27.0595136277078,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851680237205,27.0593762325202,0 -80.3851495891403,27.0593760911098,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851693399513,27.0592386959188,0 -80.3851509053935,27.059238554509,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38517065617531,27.0591011593147,0 -80.3851522216401,27.0591010179054,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851719723927,27.0589636227079,0 -80.3851535378799,27.0589634812991,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851732886032,27.0588260860983,0 -80.3851548541129,27.0588259446901,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38517460480711,27.058688549486,0 -80.3851561703392,27.0586884080783,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38517592100421,27.0585510128709,0 -80.3851574865588,27.0585508714638,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851785533782,27.0582759396326,0 -80.38516011897779,27.0582757982266,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851798695551,27.0581384030093,0 -80.3851614351772,27.0581382616038,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851811857253,27.0580008663833,0 -80.38516275136981,27.0580007249784,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38518250188871,27.0578633297545,0 -80.38516406755571,27.0578631883501,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38518381804541,27.057725793123,0 -80.3851653837349,27.0577256517192,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851851341954,27.0575882564888,0 -80.3851666999073,27.0575881150855,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38518645033859,27.0574507198518,0 -80.3851680160731,27.0574505784491,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851877664751,27.0573131832121,0 -80.385169332232,27.0573130418099,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851890826049,27.0571756465696,0 -80.3851706483843,27.057175505168,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851917148442,27.0569005732765,0 -80.3851732806685,27.0569004318759,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851930309537,27.0567630366258,0 -80.3851745968006,27.0567628952258,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851943470566,27.0566254999723,0 -80.3851759129259,27.0566253585729,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851956631527,27.0564879633162,0 -80.3851772290444,27.0564878219173,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385196979242,27.0563504266573,0 -80.38517854515629,27.0563502852589,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851982953246,27.0562128899956,0 -80.38517986126141,27.0562127485978,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3851996114005,27.0560753533312,0 -80.3851811773597,27.056075211934,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852009274697,27.0559378166641,0 -80.3851824934514,27.0559376752674,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38520224353211,27.0558002799942,0 -80.3851838095362,27.0558001385981,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852048756368,27.05552520664631,0 -80.3851864416858,27.0555250652512,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385206191679,27.0553876699682,0 -80.3851877577505,27.0553875285737,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852075077145,27.0552501332874,0 -80.38518907380851,27.0552499918934,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852088237432,27.0551125966038,0 -80.3851903898597,27.0551124552104,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38521013976521,27.0549750599175,0 -80.38519170590421,27.0549749185246,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38521145578051,27.0548375232284,0 -80.385193021942,27.0548373818361,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852127717891,27.0546999865366,0 -80.38519433797301,27.0546998451449,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852140877909,27.0545624498421,0 -80.3851956539973,27.0545623084509,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38521540378601,27.0544249131448,0 -80.3851969700148,27.0544247717542,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385218035756,27.054149839742,0 -80.3851996020298,27.0541496983525,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852193517308,27.0540123030366,0 -80.3852009180271,27.0540121616475,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385220667699,27.0538747663283,0 -80.3852022340178,27.0538746249399,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852219836604,27.0537372296173,0 -80.38520355000161,27.0537370882294,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38522329961511,27.0535996929036,0 -80.38520486597881,27.0535995515163,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385224615563,27.0534621561872,0 -80.3852061819492,27.0534620148004,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38522593150429,27.053324619468,0 -80.3852074979129,27.0533244780817,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38522724743881,27.0531870827461,0 -80.3852088138699,27.0531869413603,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852285633665,27.0530495460214,0 -80.3852101298201,27.05304940463621,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852311952018,27.0527744725638,0 -80.3852127617003,27.0527743311797,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38523251110939,27.0526369358309,0 -80.38521407763039,27.0526367944474,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852338270102,27.0524993990953,0 -80.38521539355369,27.0524992577123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38523514290431,27.0523618623569,0 -80.3852167094702,27.0523617209745,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852364587917,27.0522243256158,0 -80.3852180253801,27.0522241842339,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38523777467231,27.0520867888719,0 -80.3852193412831,27.0520866474906,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38523909054619,27.0519492521253,0 -80.3852206571795,27.0519491107445,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852404064133,27.051811715376,0 -80.38522197306909,27.0518115739957,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38524172227371,27.0516741786239,0 -80.38522328895201,27.0516740372442,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852443539744,27.0513991051115,0 -80.38522592069759,27.0513989637329,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38524566981459,27.0512615683512,0 -80.3852272365603,27.0512614269732,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852469856481,27.0511240315882,0 -80.38522855241629,27.0511238902107,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852483014749,27.0509864948224,0 -80.3852298682655,27.0509863534455,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852496172949,27.0508489580539,0 -80.38523118410799,27.0508488166775,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852509331082,27.0507114212826,0 -80.3852324999438,27.0507112799068,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852522489148,27.0505738845086,0 -80.38523381577281,27.0505737431333,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852535647146,27.0504363477319,0 -80.3852351315951,27.0504362063572,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852548805077,27.0502988109524,0 -80.38523644741071,27.0502986695782,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38525751207369,27.0500237373853,0 -80.3852390790216,27.0500235960121,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852588278466,27.0498862005976,0 -80.385240394817,27.049886059225,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852601436128,27.0497486638071,0 -80.3852417106057,27.0497485224351,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852614593723,27.0496111270139,0 -80.3852430263876,27.0496109856425,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385262775125,27.049473590218,0 -80.38524434216281,27.0494734488471,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38526409087091,27.0493360534194,0 -80.38524565793119,27.049335912049,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852654066102,27.049198516618,0 -80.3852469736929,27.0491983752481,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38526672234271,27.0490609798138,0 -80.3852482894479,27.0490608384446,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852680380685,27.048923443007,0 -80.38524960519609,27.0489233016382,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852706694999,27.048648369385,0 -80.3852522366724,27.0486482280173,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38527198520551,27.0485108325699,0 -80.3852535524005,27.0485106912028,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852733009043,27.048373295752,0 -80.38525486812181,27.0483731543855,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38527461659641,27.0482357589315,0 -80.3852561838364,27.0482356175655,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852759322818,27.0480982221081,0 -80.3852574995443,27.0480980807427,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852772479605,27.0479606852821,0 -80.38525881524539,27.0479605439172,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852785636324,27.0478231484533,0 -80.3852601309398,27.0478230070889,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852798792976,27.0476856116218,0 -80.3852614466275,27.047685470258,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38528119495609,27.0475480747875,0 -80.3852627623084,27.0475479334242,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852838262529,27.0472730011107,0 -80.3852653936501,27.0472728597485,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852851418911,27.0471354642682,0 -80.3852667093108,27.0471353229066,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852864575227,27.046997927423,0 -80.3852680249648,27.0469977860619,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852877731475,27.046860390575,0 -80.3852693406121,27.0468602492145,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852890887656,27.04672285372431,0 -80.3852706562526,27.0467227123643,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852904043769,27.0465853168708,0 -80.3852719718865,27.0465851755114,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852917199816,27.0464477800146,0 -80.3852732875135,27.0464476386558,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38529303557939,27.0463102431557,0 -80.38527460313389,27.0463101017974,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852943511706,27.046172706294,0 -80.3852759187475,27.0461725649363,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852969823327,27.0458976325625,0 -80.38527854995461,27.0458974912058,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3852982979037,27.0457600956926,0 -80.385279865548,27.0457599543364,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38529961346789,27.0456225588199,0 -80.3852811811347,27.0456224174643,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38530092902541,27.0454850219445,0 -80.38528249671469,27.0454848805895,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853022445762,27.0453474850664,0 -80.3852838122879,27.045347343712,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38530356012021,27.0452099481856,0 -80.3852851278544,27.0452098068317,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853048756576,27.04507241130201,0 -80.3852864434142,27.0450722699486,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38530619118821,27.0449348744157,0 -80.3852877589672,27.0449347330628,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385307506712,27.0447973375266,0 -80.38528907451349,27.0447971961743,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853101377395,27.0445222637402,0 -80.385291705586,27.044522122389,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853114532432,27.0443847268429,0 -80.38529302111211,27.0443845854923,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38531276874011,27.0442471899429,0 -80.3852943366315,27.0442470485928,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853140842303,27.0441096530401,0 -80.38529565214409,27.0441095116906,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853153997138,27.0439721161346,0 -80.38529696765011,27.0439719747856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853167151905,27.0438345792264,0 -80.3852982831493,27.0438344378779,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3853180306605,27.0436970423154,0 -80.38529959864179,27.0436969009675,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38531934612379,27.0435595054017,0 -80.3853009141275,27.0435593640543,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38532066158039,27.0434219684852,0 -80.3853022296065,27.0434218271384,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38537333951081,27.0431568309926,0 -80.3853564975462,27.0431501237083,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38545137709001,27.0430411748881,0 -80.3854369119146,27.0430309450919,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38555894396291,27.0429464020035,0 -80.3855477549352,27.0429332857334,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.385689352147,27.0428784047998,0 -80.38568213493061,27.0428632175573,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3858335829552,27.0428330370471,0 -80.3858276724135,27.0428174035565,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3859790764437,27.0427889330663,0 -80.3859731658839,27.0427732995813,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38612456982131,27.0427448289328,0 -80.38611865924339,27.0427291954536,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38627006308801,27.0427007246467,0 -80.386264152492,27.0426850911732,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38641555624371,27.042656620208,0 -80.3864096456295,27.0426409867402,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3867065422222,27.0425684108728,0 -80.3867006315719,27.0425527774164,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3868520350451,27.0425243059763,0 -80.3868461243766,27.0425086725256,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.386997527757,27.0424802009271,0 -80.38699161707039,27.0424645674822,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3871430203579,27.0424360957254,0 -80.3871371096533,27.0424204622861,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3872885128479,27.042391990371,0 -80.3872826021252,27.0423763569375,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38743400522699,27.0423478848641,0 -80.3874280944861,27.0423322514363,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3875794974951,27.0423037792045,0 -80.3875735867361,27.0422881457824,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3877249896522,27.0422596733923,0 -80.38771907887519,27.042244039976,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3878704816984,27.0422155674276,0 -80.3878645709032,27.0421999340169,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3881614654579,27.0421273550402,0 -80.38815555462649,27.042111721641,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3883069571712,27.0420832486176,0 -80.3883010463217,27.0420676152241,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38845244877361,27.0420391420425,0 -80.38844653790601,27.0420235086547,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3885979402649,27.0419950353147,0 -80.3885920293793,27.0419794019326,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3887434316454,27.0419509284343,0 -80.3887375207416,27.041935295058,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3888889229149,27.0419068214014,0 -80.388883011993,27.0418911880307,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.38903441407339,27.0418627142158,0 -80.3890285031334,27.0418470808508,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3891799051209,27.0418186068776,0 -80.3891739941628,27.0418029735184,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3893253960575,27.0417744993869,0 -80.3893194850813,27.0417588660334,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3896163775978,27.04168628394761,0 -80.3896104665854,27.0416706506055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3897618682015,27.041642175999,0 -80.38975595717101,27.0416265426627,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3899073586942,27.04159806789791,0 -80.3899014476456,27.0415824345672,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.390052849076,27.0415539596442,0 -80.39004693800931,27.0415383263192,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3901983393468,27.0415098512379,0 -80.390192428262,27.0414942179186,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39034382950661,27.041465742679,0 -80.3903379184037,27.0414501093655,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3904893195555,27.0414216339675,0 -80.39048340843451,27.0414060006597,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39063480949341,27.0413775251034,0 -80.39062889835429,27.04136189180131,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3907802993203,27.0413334160867,0 -80.3907743881631,27.0413177827904,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39107127864121,27.0412451975957,0 -80.39106536744779,27.0412295643107,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3912167681352,27.0412010881212,0 -80.39121085692371,27.041185454842,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3913622575182,27.0411569784942,0 -80.3913563462886,27.0411413452207,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3915077467903,27.0411128687147,0 -80.3915018355426,27.0410972354469,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3916532359514,27.0410687587825,0 -80.39164732468559,27.0410531255204,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39179872500149,27.0410246486977,0 -80.3917928137176,27.0410090154414,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3919442139406,27.0409805384604,0 -80.39193830263859,27.0409649052098,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3920897027688,27.0409364280705,0 -80.3920837914487,27.0409207948256,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.392235191486,27.04089231752801,0 -80.3922292801477,27.0408766842888,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3925261685874,27.0408040959853,0 -80.39252025721299,27.0407884627576,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3926716569716,27.0407599849851,0 -80.3926657455791,27.0407443517631,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39281714524491,27.0407158738323,0 -80.39281123383429,27.04070024061601,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3929626334071,27.040671762527,0 -80.39295672197839,27.0406561293164,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3931081214584,27.040627651069,0 -80.39310221001161,27.0406120178642,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3932536093987,27.0405835394585,0 -80.3932476979338,27.0405679062594,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3933990972281,27.0405394276955,0 -80.3933931857451,27.040523794502,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3935445849464,27.0404953157798,0 -80.39353867344531,27.0404796825921,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3936900725538,27.0404512037116,0 -80.3936841610346,27.0404355705296,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3939810474355,27.0403629791175,0 -80.3939751358801,27.0403473459469,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3941265347099,27.0403188665916,0 -80.3941206231364,27.0403032334267,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39427202187331,27.0402747539131,0 -80.39426611028171,27.0402591207539,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3944175089257,27.040230641082,0 -80.39441159731609,27.0402150079286,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3945629958672,27.0401865280984,0 -80.3945570842394,27.0401708949507,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3947084826976,27.0401424149622,0 -80.3947025710517,27.0401267818202,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3948539694171,27.0400983016735,0 -80.39484805775309,27.0400826685372,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3949994560255,27.0400541882322,0 -80.39499354434339,27.0400385551016,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.395144942523,27.0400100746383,0 -80.3951390308228,27.0399944415135,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39543591518491,27.0399218469929,0 -80.3954300034485,27.0399062138795,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3955814013494,27.0398777329413,0 -80.3955754895949,27.0398620998336,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3957268874029,27.03983361873721,0 -80.3957209756303,27.0398179856353,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3958723733454,27.0397895043806,0 -80.3958664615547,27.0397738712843,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39601785917689,27.0397453898714,0 -80.3960119473681,27.0397297567808,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3961633448973,27.0397012752096,0 -80.3961574330705,27.0396856421248,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3963088305068,27.0396571603953,0 -80.3963029186619,27.0396415273162,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3964543160053,27.0396130454284,0 -80.39644840414231,27.039597412355,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3965998013928,27.039568930309,0 -80.39659388951171,27.03955329724131,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39689077183481,27.0394806996124,0 -80.39688485991751,27.0394650665562,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39703625688929,27.0394365840354,0 -80.39703034495391,27.0394209509849,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3971817418328,27.0393924683057,0 -80.3971758298793,27.0393768352609,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3973272266653,27.0393483524235,0 -80.3973213146936,27.0393327193845,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3974727113867,27.0393042363888,0 -80.39746679939699,27.03928860335551,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3976181959972,27.0392601202015,0 -80.3976122839894,27.0392444871739,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3977636804967,27.0392160038617,0 -80.3977577684708,27.0392003708398,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39790916488511,27.0391718873694,0 -80.3979032528411,27.0391562543532,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3980546491626,27.0391277707244,0 -80.3980487371005,27.039112137714,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39834561738439,27.039039536977,0 -80.39833970528611,27.0390239039779,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3984911013288,27.0389954198745,0 -80.39848518921249,27.0389797868811,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39863658516229,27.0389513026194,0 -80.3986306730278,27.0389356696318,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3987820688846,27.0389071852118,0 -80.3987761567321,27.0388915522299,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.39892755249601,27.0388630676516,0 -80.3989216403254,27.0388474346754,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3990730359964,27.0388189499389,0 -80.3990671238077,27.0388033169685,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3992185193858,27.0387748320737,0 -80.3992126071789,27.0387591991089,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3993640026641,27.0387307140559,0 -80.39935809043919,27.0387150810969,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3995094858314,27.0386865958856,0 -80.3995035735884,27.0386709629323,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.399800451833,27.0385983590874,0 -80.3997945395538,27.0385827261455,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.3999459346673,27.0385542404595,0 -80.39994002237,27.0385386075233,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4000914173906,27.038510121679,0 -80.4000855050752,27.0384944887486,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4002369000028,27.038466002746,0 -80.4002309876693,27.0384503698214,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40038238250401,27.0384218836606,0 -80.40037647015249,27.0384062507416,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4005278648942,27.0383777644225,0 -80.4005219525246,27.0383621315093,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4006733471734,27.038333645032,0 -80.4006674347856,27.0383180121244,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4008188293416,27.0382895254889,0 -80.40081291693571,27.0382738925871,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4009643113987,27.0382454057932,0 -80.40095839897469,27.0382297728972,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40125527517991,27.0381571659444,0 -80.4012493627198,27.0381415330598,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4014007569039,27.0381130457912,0 -80.4013948444257,27.0380974129123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.401546238517,27.0380689254855,0 -80.40154032602069,27.0380532926123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.401691720019,27.0380248050273,0 -80.40168580750461,27.0380091721598,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40183720141,27.0379806844165,0 -80.4018312888775,27.0379650515548,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40198268268991,27.0379365636532,0 -80.4019767701393,27.0379209307972,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40212816385881,27.0378924427374,0 -80.40212225129019,27.0378768098871,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4022736449167,27.0378483216691,0 -80.40226773233,27.0378326888245,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4024191258636,27.0378042004483,0 -80.4024132132587,27.0377885676094,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4027100874242,27.037715957549,0 -80.4027041747832,27.0377003247216,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.40285556803801,27.0376718358706,0 -80.4028496553789,27.0376562030489,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4030010485407,27.0376277140397,0 -80.40299513586351,27.0376120812237,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4031465289324,27.0375835920563,0 -80.4031406162371,27.0375679592461,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4032920092131,27.0375394699204,0 -80.4032860964997,27.0375238371158,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4034374893827,27.0374953476319,0 -80.4034315766512,27.0374797148331,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-80.4035829694413,27.0374512251909,0 -80.4035770566917,27.0374355923979,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
