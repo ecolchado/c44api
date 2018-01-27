@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Folder>
+<Document>
 	<name>e2-labels</name>
 	<open>1</open>
 	<Placemark>
@@ -759,5 +759,5 @@
 			<coordinates>-80.4036141925105,27.0374112599459,0</coordinates>
 		</Point>
 	</Placemark>
-</Folder>
+</Document>
 </kml>
