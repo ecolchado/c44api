@@ -6,7 +6,6 @@
 		<name>300+00</name>
 		<text>125</text>
 		<Point>
-			<gx:drawOrder>1</gx:drawOrder>
 			<coordinates>-80.40110388229276,27.03817856677847,0</coordinates>
 		</Point>
 	</Placemark>
